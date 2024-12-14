@@ -21,7 +21,7 @@ export default function PrivacyPolicy() {
               <p className="mb-4">
                 This Privacy Policy explains how BitBuster Games ("we", "us", or "our") handles information through our website. We are committed to protecting your privacy and being transparent about our practices.
               </p>
-              <p>Last updated: {new Date().toLocaleDateString()}</p>
+              <p>Last updated: 12.14.2024</p>
             </section>
 
             <section>
